@@ -1,0 +1,25 @@
+# Entorno
+.env
+.env.*
+
+# Composer
+/vendor/
+/composer.lock
+
+# Cache y sesiones
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/views/
+/storage/logs/
+
+# Artefactos y backups
+*.zip
+*.tar
+*.tar.gz
+*.bak
+*.tmp
+
+# Editor / SO
+.vscode/
+.DS_Store
+Thumbs.db
