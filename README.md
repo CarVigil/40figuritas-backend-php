@@ -23,11 +23,11 @@ Copia `.env.example` a `.env` y actualiza con tus credenciales:
 ```
 DB_HOST=127.0.0.1
 DB_USER=root
-DB_PASS=Matu2110
-DB_NAME=app40ad
-JWT_SECRET=MySeCrtKeywow4325
-MAIL_FROM=40figuritas@gmail.com
-MAIL_PASSWORD=bifdmreabsboaruf
+DB_PASS=
+DB_NAME=
+JWT_SECRET=
+MAIL_FROM=
+MAIL_PASSWORD=
 ALLOWED_ORIGINS=https://midominio.com,https://app.midominio.com
 INTERNAL_API_KEY=cambia-est0-por-un-secreto
 ```
